@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f1f1f1;
+}
+header{
+    background-color: white;
+    text-align: center;
+    padding: 30px;
+}
+header h1 {
+    font-size: 30px;
+}
+section p {
+    color: darkcyan;
+}
+article h2 p{
+    color: coral;
+}
+Nav {
+    background-color: antiquewhite;
+    overflow: hidden;
+}
+Nav a{
+    float: left;
+    display: block;
+    color: orangered;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
